@@ -1,0 +1,11 @@
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\bin\Release\SOAPCorreios.exe.config
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\bin\Release\SOAPCorreios.exe
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\bin\Release\SOAPCorreios.XmlSerializers.dll
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\bin\Release\SOAPCorreios.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\obj\Release\SOAPCorreios.Form1.resources
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\obj\Release\SOAPCorreios.Properties.Resources.resources
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\obj\Release\SOAPCorreios.csproj.GenerateResource.Cache
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\obj\Release\SOAPCorreios.exe
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\obj\Release\SOAPCorreios.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\obj\Release\SOAPCorreios.XmlSerializers.dll
+C:\Users\Lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\obj\Release\SOAPCorreios.csprojResolveAssemblyReference.cache

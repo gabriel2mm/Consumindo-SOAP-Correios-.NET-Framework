@@ -1,0 +1,9 @@
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\bin\Debug\SOAPCorreios.exe.config
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\bin\Debug\SOAPCorreios.exe
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\bin\Debug\SOAPCorreios.pdb
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\obj\Debug\SOAPCorreios.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\obj\Debug\SOAPCorreios.Form1.resources
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\obj\Debug\SOAPCorreios.Properties.Resources.resources
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\obj\Debug\SOAPCorreios.csproj.GenerateResource.Cache
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\obj\Debug\SOAPCorreios.exe
+c:\users\lucas\documents\visual studio 2015\Projects\SOAPCorreios\SOAPCorreios\obj\Debug\SOAPCorreios.pdb
